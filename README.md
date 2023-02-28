@@ -1,4 +1,4 @@
-# Deep_Learning-Fashion_MNIST-VGG16
+# Resolução do dataset Fashion_MNIST usando a rede VGG16
 
 ## Sobre a VGG16
 A VGG16 é uma arquitetura de rede neural convolucional profunda que foi desenvolvida pela Visual Geometry Group (VGG) da Universidade de Oxford. Ela é composta por 16 camadas, incluindo 13 camadas convolucionais e 3 camadas totalmente conectadas. A VGG16 é amplamente utilizada em tarefas de classificação de imagens, reconhecimento de objetos e detecção de objetos em diversas aplicações.
